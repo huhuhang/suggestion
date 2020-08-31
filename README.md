@@ -4,8 +4,7 @@
 
 ### 推荐方式
 
-如果你有新的选题推荐给我们，可以 [新建一个新的 Issues](https://github.com/huhuhang/suggestion/issues/new)。
-新建时，请认真阅读模板并补充说明内容。
+如果你有新的选题推荐给我们，可以点击此处 [👉 新建一个 Issues](https://github.com/huhuhang/suggestion/issues/new/choose)。新建时，请认真阅读模板并补充说明内容。
 
 ### 进度追踪
 
