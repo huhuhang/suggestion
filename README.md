@@ -11,8 +11,9 @@
 
 如果你有新的选题推荐给我们，可以点击此处 [👉 新建一个 Issues](https://github.com/huhuhang/suggestion/issues/new/choose)。
 
-- 新建前，请浏览或搜索 Issues 列表看是否已存在相似选题推荐。
-- 新建时，请认真阅读 Issues 模板并补充内容。
+- 首先，请 [前往网站搜索](https://www.lanqiao.cn/courses/) 是否已经有相关课程。
+- 然后，请浏览或搜索 Issues 列表看是否已存在相似选题推荐。
+- 最后，请认真阅读 Issues 模板并补充内容。
 
 ### 进度追踪
 
