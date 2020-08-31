@@ -1,6 +1,6 @@
 <div align="center">
   <h1><img src="https://static.shiyanlou.com/lanqiao/frontend/dist/img/c87943b.svg"></h1>
-  <b>蓝桥 · 实验楼课程｜用户选题建议</b>
+  <b>为你定制一门公开课程</b>
 </div>
 
 <br />
